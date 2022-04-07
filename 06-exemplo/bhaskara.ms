@@ -1,0 +1,3 @@
+.EQ
+x={-b +- sqrt{b sup 2 - 4ac}} over 2a
+.EN
